@@ -1,0 +1,1 @@
+ligo o primeiro interruptor, vejo qual sala esta com a luz ligada, ligo outro interruptor(mantendo o primeiro ligado) e vejo qual das duas salas restantes esta com a luz ligada e com isso consigo saber qual o ultimo interruptor liga a sala restante.
